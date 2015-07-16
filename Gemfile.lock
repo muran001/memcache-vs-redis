@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dalli (2.7.4)
+    redis (3.2.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dalli
+  redis
